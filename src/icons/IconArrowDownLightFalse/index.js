@@ -1,0 +1,1 @@
+export { IconArrowDownLightFalse } from "./IconArrowDownLightFalse";

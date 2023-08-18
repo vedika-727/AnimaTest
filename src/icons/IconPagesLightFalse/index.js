@@ -1,0 +1,1 @@
+export { IconPagesLightFalse } from "./IconPagesLightFalse";

@@ -1,0 +1,1 @@
+export { TypeYoutubeAmoeba } from "./TypeYoutubeAmoeba";

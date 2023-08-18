@@ -1,0 +1,1 @@
+export { IconCloseLightFalse } from "./IconCloseLightFalse";

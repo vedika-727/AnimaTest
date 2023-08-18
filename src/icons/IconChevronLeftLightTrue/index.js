@@ -1,0 +1,1 @@
+export { IconChevronLeftLightTrue } from "./IconChevronLeftLightTrue";

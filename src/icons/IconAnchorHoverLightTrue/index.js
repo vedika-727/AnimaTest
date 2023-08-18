@@ -1,0 +1,1 @@
+export { IconAnchorHoverLightTrue } from "./IconAnchorHoverLightTrue";

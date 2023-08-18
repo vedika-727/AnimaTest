@@ -1,0 +1,270 @@
+.change-line-ANCHOR {
+  align-items: center;
+  display: flex;
+  position: relative;
+  width: 454px;
+}
+
+.change-line-ANCHOR .frame-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.change-line-ANCHOR .bullet {
+  height: 12px;
+  position: relative;
+  width: 9px;
+}
+
+.change-line-ANCHOR .line {
+  height: 12px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.change-line-ANCHOR .bullet-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3px;
+  position: relative;
+}
+
+.change-line-ANCHOR .line-stroke {
+  height: 15px;
+  position: relative;
+  width: 1px;
+}
+
+.change-line-ANCHOR .rectangle {
+  background-color: #ffffff;
+  border-radius: 31px;
+  height: 2px;
+  position: relative;
+  width: 9px;
+}
+
+.change-line-ANCHOR .frame-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.change-line-ANCHOR .icons-controls {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.change-line-ANCHOR .div-2 {
+  color: var(--colors-content-text-70);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.change-line-ANCHOR .frame-4 {
+  opacity: 0.7;
+  position: relative;
+}
+
+.change-line-ANCHOR .frame-5 {
+  left: 1px;
+  position: relative;
+  top: 2px;
+}
+
+.change-line-ANCHOR .overlap-group-2 {
+  height: 14px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 16px;
+}
+
+.change-line-ANCHOR .rectangle-2 {
+  border: 1.5px solid;
+  border-color: var(--colors-content-text-100);
+  border-radius: 1.45px;
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(-45.61deg);
+  width: 10px;
+}
+
+.change-line-ANCHOR .img {
+  height: 6px;
+  left: 3px;
+  position: absolute;
+  top: 7px;
+  width: 12px;
+}
+
+.change-line-ANCHOR .vector {
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 4px;
+}
+
+.change-line-ANCHOR .ellipse-2 {
+  border: 1.5px solid;
+  border-color: var(--colors-content-text-100);
+  border-radius: 6.42px;
+  height: 13px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.change-line-ANCHOR .vector-2 {
+  height: 2px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.change-line-ANCHOR .vector-3 {
+  height: 2px;
+  left: 1px;
+  position: absolute;
+  top: 11px;
+  width: 8px;
+}
+
+.change-line-ANCHOR .vector-4 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 3px;
+}
+
+.change-line-ANCHOR .text-wrapper-2 {
+  color: var(--colors-content-text-70);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.change-line-ANCHOR.closed-false {
+  border-color: var(--colors-border-border-12);
+  border-top-style: solid;
+  border-top-width: 1px;
+  justify-content: space-between;
+}
+
+.change-line-ANCHOR.closed-true {
+  gap: 10px;
+}
+
+.change-line-ANCHOR .animation {
+  height: 16px;
+  width: 16px;
+}
+
+.change-line-ANCHOR .moment-type {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+}
+
+.change-line-ANCHOR .color {
+  height: 16px;
+  width: 16px;
+}
+
+.change-line-ANCHOR .frame-4.hover .frame-5 {
+  height: 12px;
+  width: 14px;
+}
+
+.change-line-ANCHOR .frame-4.animation .frame-5 {
+  height: 13px;
+  width: 15px;
+}
+
+.change-line-ANCHOR .frame-4.shape .frame-5 {
+  height: 12px;
+  width: 14px;
+}
+
+.change-line-ANCHOR .frame-4.position .frame-5 {
+  height: 12px;
+  width: 14px;
+}
+
+.change-line-ANCHOR .frame-4.text .frame-5 {
+  height: 12px;
+  width: 14px;
+}
+
+.change-line-ANCHOR .frame-4.preview .frame-5 {
+  height: 12px;
+  width: 14px;
+}
+
+.change-line-ANCHOR .frame-4.moment-type .frame-5 {
+  height: 12px;
+  width: 14px;
+}
+
+.change-line-ANCHOR .frame-4.color .frame-5 {
+  height: 12px;
+  width: 14px;
+}
+
+.change-line-ANCHOR .frame-4.opacity .frame-5 {
+  height: 12px;
+  width: 14px;
+}
+
+.change-line-ANCHOR .frame-4.icon .frame-5 {
+  height: 12px;
+  width: 14px;
+}
+
+.change-line-ANCHOR .frame-4.CTA .frame-5 {
+  height: 12px;
+  width: 14px;
+}
+
+.change-line-ANCHOR .frame-4.content .frame-5 {
+  height: 12px;
+  width: 14px;
+}
+
+.change-line-ANCHOR .frame-4.size .frame-5 {
+  height: 12px;
+  width: 14px;
+}
+
+.change-line-ANCHOR .frame-4.visibility .frame-5 {
+  height: 12px;
+  width: 14px;
+}

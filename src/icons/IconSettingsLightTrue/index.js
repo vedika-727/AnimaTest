@@ -1,0 +1,1 @@
+export { IconSettingsLightTrue } from "./IconSettingsLightTrue";

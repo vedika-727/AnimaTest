@@ -1,0 +1,1 @@
+export { IconRedirectLightTrue } from "./IconRedirectLightTrue";

@@ -1,0 +1,1 @@
+export { IconMaximizeLightFalse } from "./IconMaximizeLightFalse";

@@ -1,0 +1,1 @@
+export { IconZoomLightTrue } from "./IconZoomLightTrue";

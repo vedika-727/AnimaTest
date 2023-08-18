@@ -1,0 +1,93 @@
+.anchor-shape .instance-node {
+  height: 47px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 47px !important;
+}
+
+.anchor-shape {
+  height: 47px;
+  width: 47px;
+}
+
+.anchor-shape .ellipse {
+  height: 45px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 45px;
+}
+
+.anchor-shape .div {
+  background-color: #000000;
+  border-radius: 17.5px;
+  height: 35px;
+  left: 5px;
+  position: relative;
+  top: 5px;
+  width: 35px;
+}
+
+.anchor-shape .type-vimeo {
+  height: 48px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 47px !important;
+}
+
+.anchor-shape .vimeo {
+  background-color: #000000;
+  border-radius: 22.5px;
+}
+
+.anchor-shape .hotspot {
+  background-color: #00000026;
+  border-radius: 22.5px;
+}
+
+.anchor-shape .tiktok-amoeba {
+  background-color: #000000;
+  border-radius: 22.5px;
+}
+
+.anchor-shape .uploaded-amoeba {
+  background-color: #000000;
+  border-radius: 22.5px;
+}
+
+.anchor-shape .border {
+  background-color: #00000073;
+  border: 2px solid;
+  border-color: #000000;
+  border-radius: 22.5px;
+  box-shadow: inset 2px 3px 4px #00000038;
+}
+
+.anchor-shape .spotify {
+  background-color: #000000;
+  border-radius: 22.5px;
+}
+
+.anchor-shape .square {
+  background-color: #000000;
+  border-radius: 1px;
+  box-shadow: 0px 3px 6px #00000026;
+}
+
+.anchor-shape .facebook-amoeba {
+  background-color: #000000;
+  border-radius: 22.5px;
+}
+
+.anchor-shape .youtube-amoeba {
+  background-color: #000000;
+  border-radius: 22.5px;
+}
+
+.anchor-shape .circle {
+  background-color: #000000;
+  border-radius: 22.5px;
+  box-shadow: 0px 3px 6px #00000026;
+}

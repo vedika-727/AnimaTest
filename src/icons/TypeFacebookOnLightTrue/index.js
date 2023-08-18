@@ -1,0 +1,1 @@
+export { TypeFacebookOnLightTrue } from "./TypeFacebookOnLightTrue";

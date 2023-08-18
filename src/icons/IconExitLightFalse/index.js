@@ -1,0 +1,1 @@
+export { IconExitLightFalse } from "./IconExitLightFalse";

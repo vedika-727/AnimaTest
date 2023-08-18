@@ -1,0 +1,1 @@
+export { TypeTiktokAmoeba } from "./TypeTiktokAmoeba";

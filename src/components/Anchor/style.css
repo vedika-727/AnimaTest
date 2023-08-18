@@ -1,0 +1,85 @@
+.anchor {
+  position: relative;
+}
+
+.anchor .overlap-group {
+  position: relative;
+}
+
+.anchor .class {
+  height: 37.5px !important;
+  width: 37.5px !important;
+}
+
+.anchor .the-icon-12 {
+  height: 33px !important;
+  left: 2px !important;
+  position: absolute !important;
+  top: 2px !important;
+  width: 33px !important;
+}
+
+.anchor .the-icon-14 {
+  height: 22px !important;
+  left: 2px !important;
+  position: absolute !important;
+  top: 2px !important;
+  width: 22px !important;
+}
+
+.anchor .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.anchor.padding-true {
+  align-items: center;
+  background-color: #000000;
+  display: inline-flex;
+}
+
+.anchor.padding-true.large-false {
+  border-radius: 54px;
+  box-shadow: 0px 3px 6px #00000026;
+  gap: 3px;
+  padding: 11px;
+}
+
+.anchor.padding-true.large-true {
+  border-radius: 81px;
+  box-shadow: 0px 4.5px 9px #00000026;
+  gap: 4.5px;
+  padding: 16.5px;
+}
+
+.anchor.padding-false.large-true {
+  height: 71px;
+  width: 71px;
+}
+
+.anchor.padding-false.large-false {
+  height: 47px;
+  width: 47px;
+}
+
+.anchor.large-true .overlap-group {
+  height: 71px;
+}
+
+.anchor.large-false .overlap-group {
+  height: 47px;
+}
+
+.anchor.large-true .text-wrapper {
+  font-size: 19.5px;
+}
+
+.anchor.large-false .text-wrapper {
+  font-size: 13px;
+}

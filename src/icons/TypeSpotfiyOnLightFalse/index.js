@@ -1,0 +1,1 @@
+export { TypeSpotfiyOnLightFalse } from "./TypeSpotfiyOnLightFalse";

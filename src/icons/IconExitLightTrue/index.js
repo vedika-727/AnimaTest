@@ -1,0 +1,1 @@
+export { IconExitLightTrue } from "./IconExitLightTrue";

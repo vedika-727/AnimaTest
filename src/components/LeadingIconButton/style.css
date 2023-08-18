@@ -1,0 +1,123 @@
+.leading-icon-button {
+  align-items: flex-start;
+  border-radius: 2px;
+  display: inline-flex;
+  gap: 4px;
+  padding: 8px 12px;
+  position: relative;
+}
+
+.leading-icon-button .add-URL-extension {
+  font-family: "Inter", Helvetica;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.leading-icon-button .icon-px {
+  height: 16px !important;
+  position: relative !important;
+  width: 16px !important;
+}
+
+.leading-icon-button .add-URL-extension-2 {
+  font-family: "Inter", Helvetica;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.leading-icon-button .polygon-wrapper {
+  height: 16px;
+  position: relative;
+  width: 10px;
+}
+
+.leading-icon-button .polygon {
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  top: 6px;
+  width: 9px;
+}
+
+.leading-icon-button.i-dropdown {
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.leading-icon-button.i-deactivated {
+  background-color: #000000;
+  opacity: 0.2;
+}
+
+.leading-icon-button.i-default-hover {
+  background-color: #000000;
+}
+
+.leading-icon-button.i-default {
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.leading-icon-button.i-dropdown-hover {
+  background-color: #000000;
+}
+
+.leading-icon-button.i-no-stroke .add-URL-extension {
+  color: #000000;
+}
+
+.leading-icon-button.i-dropdown .add-URL-extension {
+  color: #ffffff;
+}
+
+.leading-icon-button.i-deactivated .add-URL-extension {
+  color: #ffffff;
+}
+
+.leading-icon-button.i-default-hover .add-URL-extension {
+  color: #ffffff;
+}
+
+.leading-icon-button.i-default .add-URL-extension {
+  color: #000000;
+}
+
+.leading-icon-button.i-dropdown-hover .add-URL-extension {
+  color: #ffffff;
+}
+
+.leading-icon-button.i-no-stroke .add-URL-extension-2 {
+  color: #ffffff;
+}
+
+.leading-icon-button.i-dropdown .add-URL-extension-2 {
+  color: #000000;
+}
+
+.leading-icon-button.i-deactivated .add-URL-extension-2 {
+  color: #ffffff;
+}
+
+.leading-icon-button.i-default-hover .add-URL-extension-2 {
+  color: #ffffff;
+}
+
+.leading-icon-button.i-default .add-URL-extension-2 {
+  color: #ffffff;
+}
+
+.leading-icon-button.i-dropdown-hover .add-URL-extension-2 {
+  color: #ffffff;
+}

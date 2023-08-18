@@ -1,0 +1,1 @@
+export { IconResetLightFalse } from "./IconResetLightFalse";

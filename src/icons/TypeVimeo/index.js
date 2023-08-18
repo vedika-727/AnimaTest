@@ -1,0 +1,1 @@
+export { TypeVimeo } from "./TypeVimeo";

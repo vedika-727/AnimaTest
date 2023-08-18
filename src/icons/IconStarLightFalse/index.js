@@ -1,0 +1,1 @@
+export { IconStarLightFalse } from "./IconStarLightFalse";

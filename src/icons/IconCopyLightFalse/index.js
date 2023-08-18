@@ -1,0 +1,1 @@
+export { IconCopyLightFalse } from "./IconCopyLightFalse";

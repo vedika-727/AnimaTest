@@ -1,0 +1,1 @@
+export { AnchorShape } from "./AnchorShape";

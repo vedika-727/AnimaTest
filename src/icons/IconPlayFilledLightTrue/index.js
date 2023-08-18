@@ -1,0 +1,1 @@
+export { IconPlayFilledLightTrue } from "./IconPlayFilledLightTrue";
